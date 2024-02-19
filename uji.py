@@ -1,5 +1,5 @@
 x = int(input(""))
-data = []
+data =  []
 
 for i in range(1,10):
   if(x/i % 2 == 0):

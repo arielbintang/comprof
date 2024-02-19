@@ -27,4 +27,4 @@ for(let kue = 1; kue >=0; kue--){
 function tambah(angka1, angka2) {
     return angka1 + angka2;
 }
-console.log(tambah(10,5));
+console.log(tambah(10,10));
