@@ -8,9 +8,9 @@ const nilai = prompt("Masukan Nilai");
 //Peraturan
 //Nilai 100-90 : A
 //Nilai 89-80 : B
-if (nilai > 90 && nilai < 100){
-    alert (`Siswa ${nama} dengan nilai ${nilai} mendapat`);
-}
+// if (nilai > 90 && nilai < 100){
+//     alert (`Siswa ${nama} dengan nilai ${nilai} mendapat`);
+// }
 if (nilai > 90){
     alert('Siswa ' + nama + ' dengan nilai ' + nilai + ' mendapat poin A');
 }
